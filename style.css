@@ -1,7 +1,26 @@
 div{
     margin: 1px 20px 10px 20px; 
     font-family: 'Courier New', Courier, monospace; 
-    color: #04d31f; 
+    color: #0f771d; 
+    font-style: italic;
+}
+
+h1{
+    margin: 1px 20px 10px 20px; 
+    font-family: 'Courier New', Courier, monospace; 
+    color: #0f771d; 
+    font-style: italic;
+    text-align: center;
+}
+
+body{
+    background-color:#c26e20; 
+    margin: 0px 300px;
+}
+
+tr{
+    font-family: 'Courier New', Courier, monospace; 
+    color: #0f771d; 
     font-style: italic;
 }
 
